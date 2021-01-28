@@ -1,0 +1,68 @@
+[
+    {
+        "nomeMotorista": "João da Silva",
+        "placa": "UTI7894",
+        "km": "2500",
+        "itens": [
+            {
+                "nomeProduto": "GASOLINA ORIGINAL COMUM",
+                "quantidade": 3.117,
+                "preco": 1.123,
+                "valor": 3.5
+            },
+            {
+                "nomeProduto": "GASOLINA ORIGINAL COMUM",
+                "quantidade": 19,
+                "preco": 3,
+                "valor": 57
+            },
+            {
+                "nomeProduto": "COCA COLA",
+                "quantidade": 1,
+                "preco": 38,
+                "valor": 38
+            }
+        ],
+        "autorizado": true
+    },
+    {
+        "nomeMotorista": "Fulano de Tal",
+        "placa": "UIT8794",
+        "km": "26899",
+        "itens": [
+            {
+                "nomeProduto": "GASOLINA ORIGINAL COMUM",
+                "quantidade": 3.117,
+                "preco": 1.123,
+                "valor": 3.5
+            },
+            {
+                "nomeProduto": "GASOLINA ORIGINAL COMUM",
+                "quantidade": 19,
+                "preco": 3,
+                "valor": 57
+            }
+        ],
+        "autorizado": true
+    },
+    {
+        "nomeMotorista": "Henquire da Silva",
+        "placa": "RT8H658",
+        "km": "5800",
+        "itens": [
+            {
+                "nomeProduto": "GASOLINA ORIGINAL COMUM",
+                "quantidade": 3.117,
+                "preco": 1.123,
+                "valor": 3.5
+            },
+            {
+                "nomeProduto": "GASOLINA ORIGINAL COMUM",
+                "quantidade": 19,
+                "preco": 3,
+                "valor": 57
+            }
+        ],
+        "autorizado": false
+    }
+]
